@@ -1,0 +1,7 @@
+Pyhint下载地址：https://www.pylike.com/static/pyhint/Pyhint-V2.1.7.zip
+
+注意：用任意浏览器访问上面的网址，即可下载。
+
+下载详解：直接在浏览器地址栏内输入https://www.pylike.com/static/pyhint/Pyhint-V2.1.7.zip，点击键盘的Enter回车键后，浏览器会直接开始下载。这里需要注意的是，有的浏览器会弹出一个下载框，询问你是否保存该文件，点击“保存”按钮后会自动将文件保存到浏览器默认的“下载”文件夹中。
+
+下载后得到Pyhint-V2.1.7.zip压缩包。解压压缩包后出现一个名为“Pyhint”的文件夹，所有的项目文件都在里面，且该“Pyhint”文件夹可以被复制存放到电脑的任意目录内，这里需要注意的是，不能存放在中文目录内，比如不能存放在“D:\软件\Pyhint”内，但是可以存放在“D:\software\Pyhint”或者“D:\Pyhint”内。不需要任何安装和配置，也不要随意修改“Pyhint”文件夹内的组件。点击进入“Pyhint”文件夹后，里面有个Pyhint.bat启动文件，鼠标左键双击运行Pyhint.bat就可以打开Pyhint AI编程助手。
