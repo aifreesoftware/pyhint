@@ -1,4 +1,4 @@
-# AI一句话生成软件,国产AI编程助手Pyhint智能体一键检查/修改代码,替代高价的ClaudeCode
+# AI一句话生成软件,国产AI编程助手Pyhint智能体一键检查/修改代码,替代高昂的ClaudeCode
 
 你还在为高昂的Claude Code成本烦恼？为什么不试试用国内高性价比 API 搭建你的 AI 编程助手？
 
